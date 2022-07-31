@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/vbb-monitor/static/css/main.073c9b0a.css",
-    "main.js": "/vbb-monitor/static/js/main.09d9c7db.js",
+    "main.css": "/vbb-monitor/static/css/main.6e575619.css",
+    "main.js": "/vbb-monitor/static/js/main.e1ad11d3.js",
     "static/js/787.8e49da1a.chunk.js": "/vbb-monitor/static/js/787.8e49da1a.chunk.js",
-    "static/media/logo.svg": "/vbb-monitor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vbb-monitor/index.html",
-    "main.073c9b0a.css.map": "/vbb-monitor/static/css/main.073c9b0a.css.map",
-    "main.09d9c7db.js.map": "/vbb-monitor/static/js/main.09d9c7db.js.map",
+    "main.6e575619.css.map": "/vbb-monitor/static/css/main.6e575619.css.map",
+    "main.e1ad11d3.js.map": "/vbb-monitor/static/js/main.e1ad11d3.js.map",
     "787.8e49da1a.chunk.js.map": "/vbb-monitor/static/js/787.8e49da1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.09d9c7db.js"
+    "static/css/main.6e575619.css",
+    "static/js/main.e1ad11d3.js"
   ]
 }
